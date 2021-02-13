@@ -9,15 +9,15 @@ For each of the extensions, read the overview page in order to learn how to use 
 
 1)`Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-2)'Bracket Pair Colorizer'allows matching brackets to be identified with colours [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+2)`Bracket Pair Colorizer` allows matching brackets to be identified with colours [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
-3)'Community Material Theme' Material Theme UI and schemes colors added [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+3)`Community Material Theme` Material Theme UI and schemes colors added [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 
-4)'Live Server' to automatically browser reload without refresh.[Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+4)`Live Server` to automatically browser reload without refresh.[Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-5)'Live Sass Compiler' Live SASS & SCSS Compile into CSS [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+5)`Live Sass Compiler` Live SASS & SCSS Compile into CSS [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
-6)'Sass' Indented Sass syntax highlighting, autocomplete & Formatter for VSCode [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+6)`Sass` Indented Sass syntax highlighting, autocomplete & Formatter for VSCode [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
 7)`Color Highlight`  highlight colors in CSS. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
